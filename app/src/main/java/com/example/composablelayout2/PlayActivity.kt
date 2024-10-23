@@ -81,7 +81,7 @@ fun SectionHeader () {
                 Spacer(Modifier.padding(3.dp))
 
                 Text(
-                    text = "Universtias Muhammadiyah Mengidul",
+                    text = "Universitas Gamping Mengidul",
                     color = Color.White)
             }
         }
